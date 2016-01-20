@@ -1,1 +1,1 @@
-bees, bees, bees.
+simple model of a beehive.
